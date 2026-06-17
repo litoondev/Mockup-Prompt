@@ -1,6 +1,0 @@
-Use Image 1 as the main mockup scene and Image 2 as the screen design that must be placed into the device screen in Image 1.
-Replace only the visible screen content in Image 1 with the design from Image 2. Keep the original mockup, device, hands, shadows, lighting, reflections, background, camera angle, perspective, and overall composition exactly the same.
-Fit Image 2 perfectly inside the screen area of Image 1. Match the screen perspective, angle, curvature, borders, and proportions naturally so it looks like the design was originally displayed on the device. Do not stretch, warp, crop incorrectly, blur, or distort the design. The inserted screen should look sharp, realistic, and perfectly aligned.
-Preserve all realistic details such as screen glare, subtle reflections, lighting direction, contrast, and shadows. The final image must look like a professional product mockup, clean and natural.
-Do not change the device shape, background, colors outside the screen, hands, camera angle, or any other part of Image 1. Only replace the screen content.
-Final result: a realistic, high-quality mockup where the second image design is perfectly fitted into the first image screen.
