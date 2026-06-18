@@ -73,5 +73,3 @@ Then paste the prompt below.
 
 
 
-
-{joy test}
