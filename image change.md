@@ -70,3 +70,8 @@ Then paste the prompt below.
 - **Consider dropping the arms-crossed pose** if slimming persists. The crossed-arms pose is the strongest thing dragging in the thin reference frame. A simple straight-on or hands-relaxed pose preserves your real build far more reliably.
 - Nano Banana 2 responds best to **concrete visual instructions**, not role-play setups.
 - Generate a few times; pick the best and refine with a short follow-up rather than rewriting the whole prompt.
+
+
+
+
+{joy test}
